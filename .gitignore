@@ -5,7 +5,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Credentials files
+*cred.py
+
 # Distribution / packaging
+.idea/
 .Python
 env/
 build/
@@ -23,6 +27,9 @@ var/
 .installed.cfg
 *.egg
 output_data
+output_files
+dash/
+dash-master/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -58,3 +65,4 @@ docs/_build/
 target/
 
 # Output Files
+

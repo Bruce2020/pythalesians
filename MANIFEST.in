@@ -1,2 +1,2 @@
-recursive-include pythalesians-examples *.*
-recursive-include pythalesians/conf/ *.*
+recursive-include finmarketpy/ *.*
+recursive-include finmarketpy_examples/ *.*
